@@ -1,0 +1,24 @@
+# Environment variables (JANGAN diupload - berisi API Key!)
+.env
+
+# Database lokal
+*.db
+*.sqlite
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
